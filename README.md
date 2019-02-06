@@ -1,5 +1,5 @@
 # poalim
-poalim
+Poalim
 The code contains 2 projects :
 
 1. searchClient - responsible for loading accountId and user name to indexing db
